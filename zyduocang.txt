@@ -1,0 +1,10 @@
+
+{
+  "storeHouse": [{
+    "sourceName": "繁华专用仓",
+    "sourceUrl": "https://gitee.com/xyanpeng/test-specific/raw/master/zydanc.txt"
+  }, {
+    "sourceName": "繁华备用仓",
+    "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b="
+  }]
+}
