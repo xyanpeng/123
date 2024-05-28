@@ -1,0 +1,23 @@
+
+{
+    "urls": [
+        {
+            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/fhzx.txt",
+            "name": "🕍繁华专线"
+        },
+       {
+            "url": "http://175.24.189.226/fm/pg/pg.json",
+            "name": "🕍繁华二线"
+        },
+        {
+            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/wa.txt",
+            "name": "✨繁华丨吾爱"
+        },
+       
+         {
+            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/fm.txt",
+            "name": "🕍繁华丨肥猫"
+        }
+        
+]
+}
