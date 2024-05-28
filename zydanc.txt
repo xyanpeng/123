@@ -10,6 +10,10 @@
             "name": "🕍繁华二线"
         },
         {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "🕍繁华三线"
+        },
+        {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/wa.txt",
             "name": "✨繁华丨吾爱"
         },
