@@ -332,7 +332,7 @@ NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 戏曲频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 戏曲频道IPV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
 
-电影频道,#genre#
+影视频道,#genre#
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
