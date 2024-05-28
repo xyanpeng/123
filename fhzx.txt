@@ -5,7 +5,7 @@
         {
             "name": "SAO0",
             "type": 0,
-            "url": "http://ys-G.ysepan.com/626299544/820685878/r7F2L76453LLHMTkitr7W27/haima.txt",
+            "url": "https://gitee.com/xyanpeng/yicheng-special-line/raw/master/V6%E7%9B%B4%E6%92%AD.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
