@@ -1,7 +1,7 @@
-# 晓宇影院弹幕版
+# 繁华影院弹幕版
 
 #### Description
-晓宇影院弹幕版
+繁华影院弹幕版
 
 #### Software Architecture
 Software architecture description
