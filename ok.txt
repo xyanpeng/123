@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/okjpg.txt;md5;109c55b488f9d1e746030efb5694f156",
+  "spider": "./lib/okpng.txt;md5;109c55b488f9d1e746030efb5694f156",
   "wallpaper": "https://gitee.com/okjack/okk/raw/master/w1.jpg",
   "logo": "https://gitee.com/okjack/okk/raw/master/ol.txt",
   "sites": [
