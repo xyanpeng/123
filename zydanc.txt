@@ -6,7 +6,7 @@
             "name": "🕍繁华专线"
         },
        {
-            "url": "http://175.24.189.226/fm/pg/pg.json",
+            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
             "name": "🕍繁华二线"
         },
         {
