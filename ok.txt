@@ -1,7 +1,7 @@
 {
-  "spider": "./lib/okpng.txt;md5;",
-  "wallpaper": "",
-  "logo": "",
+  "spider": ";md5;c49d9daef4407dcbba27dfcca04149e3",
+  "wallpaper": "https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
+  "logo": "http://111.67.193.2:89/logo.jpg",
   "sites": [
     {
       "key": "豆瓣",
