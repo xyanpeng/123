@@ -7,11 +7,15 @@
         },
        {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
-            "name": "🕍繁华二线"
+            "name": "🕍繁华弹幕"
         },
         {
             "url": "http://www.饭太硬.com/tv/",
             "name": "🕍繁华三线"
+        },
+         {
+            "url": "http://tv.nxog.top/m/",
+            "name": "🕍繁华欧哥"
         },
         {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/wa.txt",
