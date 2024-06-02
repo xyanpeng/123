@@ -6,8 +6,8 @@
   }, {
     "sourceName": "繁华备用仓",
     "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b="
-  },{
-"storeHouse": [
+  },
+
 {"sourceName":"🌺🌺主仓库🦅金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
 
 
