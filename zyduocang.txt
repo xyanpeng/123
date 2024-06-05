@@ -40,8 +40,8 @@
 
     {"sourceName":"💐多多多影视仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/多多多仓.txt"},
 
-    {"sourceName":"🐳潇洒个人多仓库","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
+    {"sourceName":"🐳潇洒个人多仓库","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"}
   
-    {"sourceName":"🔮鼓楼影视多仓库","sourceUrl":"https://raw.gitmirror.com/ZTHA000/tvbox/main/flck.json"}
+    
     ]
 }
