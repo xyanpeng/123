@@ -3,12 +3,7 @@
   "storeHouse": [{
     "sourceName": "繁华专用仓",
     "sourceUrl": "https://gitee.com/xyanpeng/test-specific/raw/master/zydanc.txt"
-  }, {
-    "sourceName": "繁华备用仓",
-    "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b="
-  },
-
-{"sourceName":"🌺🌺主仓库🦅金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
+  },{"sourceName":"🌺🌺主仓库🦅金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
 
 
     {"sourceName":"🏆TVBOX官方仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX官仓.json"},
