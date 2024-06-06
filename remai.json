@@ -1,14 +1,12 @@
 {
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "关注┃QQ群┃705712311",
+      "key": "豆瓣",
+      "name": "繁华影院",
       "type": 3,
-      "api": "https://tv.980222.xyz/M1/libs/drpy2.min.js",
+      "api": "csp_Douban",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://tv.980222.xyz/M1/js/douban.js"
+      "changeable": 1
     },
     {
       "key": "csp_KungFu404",
