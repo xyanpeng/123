@@ -1,0 +1,312 @@
+{
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
+  
+  
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "warningText": "
+                  📢接口软件永远免费,
+                  📢请勿相信视频中广告,
+               
+                  📢如被收费,请直接退款",
+  "sites": [
+
+    
+
+ {
+      "key": "Biliych",
+      "name": "🅱繁华┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
+    },
+
+  {
+      "key": "MTV",
+      "name": "🎧繁华┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+
+  {
+      "key": "djmv",
+      "name": "繁华|夜店DJMV",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/djmv.php"
+    },
+
+
+
+ {
+      "key": "T4-blh",
+      "name": "繁华┃贝乐虎儿歌",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/beilehu.php"
+    },
+    {
+      "key": "tuxiaobei",
+      "name": "繁华┃兔小贝儿歌",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/tuxiaobei.php"
+    },
+    {
+      "key": "T4-iktv",
+      "name": "繁华┃音乐iktv",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/iktv.php"
+    },
+    {
+      "key": "T4-tangdou",
+      "name": "繁华┃糖豆广场舞",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/tangdou.php"
+    },
+    {
+      "key": "yinyuetai",
+      "name": "繁华┃音悦台",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/yyt.php"
+    },
+    
+    {
+      "key": "MV",
+      "name": "繁华┃酷奇音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/mv2.php"
+    },
+    {
+      "key": "T4-xiaogou",
+      "name": "繁华┃酷狗音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/xiaogou.php"
+    },
+    {
+      "key": "T4-djuu",
+      "name": "繁华┃DJUU音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/djuu.php"
+    },
+    {
+      "key": "T4-a8",
+      "name": "繁华┃现场音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/a8.php"
+    },
+
+ {
+      "key": "T4-mybili",
+      "name": "繁华┃B站教学",
+      "type": 4,
+      "api": "https://catbox.n13.club/t6/bili.php?id=我的哔哩"
+    },
+   
+    {
+      "key": "fan",
+      "name": "繁华",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "多线ITV",
+      "type": 0,
+      "url": "",
+      "playerType": 1
+    }
+
+  ]
+}
