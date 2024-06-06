@@ -3,29 +3,27 @@
     "urls": [
         {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/fhzx.txt",
-            "name": "🕍繁华专线"
+            "name": "🕍繁华丨专线"
         },
        {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
-            "name": "🕍繁华弹幕"
+            "name": "🕍繁华丨弹幕"
+        },
+        {
+            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/remai.json",
+            "name": "🕍繁华丨热卖"
         },
         {
             "url": "http://www.饭太硬.com/tv/",
-            "name": "🕍繁华三线"
+            "name": "🕍繁华丨饭佬"
         },
          {
             "url": "http://tv.nxog.top/m/",
-            "name": "🕍繁华欧哥"
+            "name": "🕍繁华丨欧哥"
         },
         {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/wa.txt",
             "name": "✨繁华丨吾爱"
-        },
-       
-         {
-            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/fm.txt",
-            "name": "🕍繁华丨肥猫"
-        }
-        
+        }                      
 ]
 }
