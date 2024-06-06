@@ -9,10 +9,7 @@
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
             "name": "🕍繁华丨弹幕"
         },
-        {
-            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/remai.json",
-            "name": "🕍繁华丨热卖"
-        },
+        
         {
             "url": "http://www.饭太硬.com/tv/",
             "name": "🕍繁华丨饭佬"
