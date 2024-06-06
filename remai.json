@@ -1,23 +1,6 @@
 {
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "繁华影院",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "csp_KungFu404",
-      "name": "💠┃TOKEN┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://tv.980222.xyz/M1/jar/alibaba.jar"
-    },
+  
     {
       "key": "爱家独家一",
       "name": "🚀┃独家一┃影视",
