@@ -6,8 +6,7 @@
   },{"sourceName":"🌺🌺主仓库🦅金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
 
 
-    {"sourceName":"🏆TVBOX官方仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX官仓.json"},
-
+   
 
 {"sourceName":"🎎蚂蚁影视多仓库","sourceUrl":"https://pan.miaogongzi.net/f/pNFE/%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"},
 
