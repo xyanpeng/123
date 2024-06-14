@@ -4,6 +4,7 @@
     "sourceName": "繁华专用仓",
     "sourceUrl": "https://gitee.com/xyanpeng/test-specific/raw/master/zydanc.txt"
   },{"sourceName":"🌺🌺主仓库🦅金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
+  {"sourceName":"又一个仓","sourceUrl":"https://yubox.xyz/dc.json"},
 
 {"sourceName":" TVBox 仓库","sourceUrl":"https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"},
    
