@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/okjpg.txt",
+      "jar": "./lib/okpng.txt",
       "ext": {
         "danmu": true
       },
