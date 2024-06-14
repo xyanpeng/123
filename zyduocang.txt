@@ -9,7 +9,7 @@
 {"sourceName":" TVBox 仓库","sourceUrl":"https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"},
    
 
-{"sourceName":"🎎蚂蚁影视多仓库","sourceUrl":"https://pan.miaogongzi.net/f/pNFE/%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"},
+
 
 {"sourceName":"🍚饭太硬多仓仓库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 
