@@ -167,17 +167,7 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-    {
-      "key": "胖虎",
-      "name": "🐯┃胖虎┃影视",
-      "type": 3,
-      "api": "csp_Panghu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "https://physvod.com"
-    },
+   
     {
       "key": "贱贱",
       "name": "🐭贱贱┃繁华",
@@ -400,13 +390,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-         {
-      "key": "csp_Juqq",
-      "name": "⭕┃剧圈┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Juqq"
-    },
+        
         {
             "key": "火狐",
             "name": "🦊茶杯┃繁华",
