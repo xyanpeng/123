@@ -199,6 +199,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "毛驴",
       "name": "🍓毛驴┃繁华",
