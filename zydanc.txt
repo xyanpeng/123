@@ -21,6 +21,10 @@
         {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/wa.txt",
             "name": "✨繁华丨吾爱"
+        },
+         {
+            "url": "http://juziyou.vip/tv",
+            "name": "橘子柚主接口"
         }                      
 ]
 }
