@@ -5,7 +5,7 @@
         {
             "name": "SAO0",
             "type": 0,
-            "url": "https://gitee.com/xyanpeng/direct-seeding/raw/master/TWv6.txt",
+            "url": "https://cloud.lxweb.cn/f/8GKWF1/zhibo.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
