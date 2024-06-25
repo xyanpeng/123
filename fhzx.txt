@@ -3,16 +3,11 @@
     "wallpaper": "http://龙珠.top/窗外.jpg",
     "lives": [
         {
-      "name": "春盈",
+      "name": "范明明•ipv6",
       "type": 0,
-      "url": "http://120.24.204.74:1888/?explorer/share/file&hash=8eaa3XwtywyAg-02R9sIhwj8jhTViR46btHi7m935rp0-6R7tZscuft_UGBA2aFvmw&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E6%96%B0ds.css",
-      //"url": "https://wds.ecsxs.com/230864.json",
-      //"url":"https://pan.shangui.cc/f/xXRnFZ/230864.json",
-      //"url":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }
       
     ],
