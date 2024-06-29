@@ -81,15 +81,7 @@
     },
         
 
-     {
-      "key": "短剧",
-      "name": "🌈上头┃繁华",
-      "type": 3,
-      "api": "csp_Djuu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+     
     
     {
       "key": "原创",
@@ -124,39 +116,10 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
     },
-    {
-      "key": "糯米",
-      "name": "🍙糯米┃繁华",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-    },
     
-    {
-      "key": "热播",
-      "name": "📺热播┃繁华",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃繁华",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
+    
+   
+    
      {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -179,17 +142,7 @@
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃繁华",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
+    
     {
       "key": "低端",
       "name": "⏮️低端┃繁华",
@@ -201,17 +154,7 @@
       "changeable": 1
     },
     
-    {
-      "key": "毛驴",
-      "name": "🍓毛驴┃繁华",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
+   
     {
       "key": "比特",
       "name": "🍄比特┃繁华",
@@ -266,58 +209,9 @@
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
-            {
-      "key": "卧龙资源",
-      "name": "👑卧龙┃繁华",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "动作片",
-        "国产剧",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "动漫电影",
-        "欧美剧",
-        "犯罪片",
-        "港澳剧",
-        "韩剧",
-        "泰剧",
-        "台湾剧",
-        "日剧",
-        "海外剧",
-        "其他片",
-        "悬疑片",
-        "奇幻片",
-        "动画片",
-        "体育赛事",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
+          
 
-        {
-            "key": "AList",
-            "name": "🤱小雅┃繁华",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/xiaoya.txt"
-        },
+        
         {
             "key": "索尼",
             "name": "🏵索尼┃繁华",
@@ -360,16 +254,7 @@
             "api": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/drpy2.min.js",
             "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/秋霞.js"
         },
-        {
-            "key": "鑫鑫影视",
-            "name": "🎯鑫鑫┃繁华",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-        },
+        
 
 
         {
@@ -426,47 +311,8 @@
                 "动漫"
             ]
         },
-        {
-            "key": "csp_Nmys",
-            "name": "🌾农民┃繁华",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/nmys.json"
-        },
-        {
-            "key": "爱迪",
-            "name": "♻️爱迪┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "http://www.baojia-yjz.com/type/{cateId}-{catePg}/.html"
-            }
-        },
-        {
-            "key": "csp_Mp4Mov",
-            "name": "🧲 Mp4┃电影",
-            "type": 3,
-            "api": "csp_Mp4Mov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-       
-        {
-            "key": "csp_xml_享看",
-            "name": "🌝 享看┃云播 ",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://xkanzy10.com/api.php/provide/vod"
-        },
+      
+        
         {
             "key": "csp_xml_暴风",
             "name": "🌊暴风┃繁华",
@@ -559,37 +405,9 @@
                 "动作片"
             ]
         },
-        {
-            "key": "Xinsj",
-            "name": "👓视觉┃直连",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
-        },
-        {
-            "key": "Czsapp",
-            "name": "📔厂长┃直连",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy55.com/"
-        },
-        {
-            "key": "csp_dadagui",
-            "name": "🐢达达┃繁华",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/达达龟.json"
-        },
+        
+       
+        
         {
             "key": "jszy",
             "name": "🏂极速┃繁华",
@@ -631,92 +449,7 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "挂影院",
-            "name": "💠听听┃繁华",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "电影解说",
-                "足球",
-                "篮球",
-                "网球",
-                "斯诺克",
-                "预告片"
-            ]
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🐼奥特┃繁华",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.aueteys.com/"
-        },
-        {
-            "key": "csp_MLYS",
-            "name": "🐴毛驴┃繁华",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
-            "key": "快云资源",
-            "name": "💨快云┃繁华",
-            "type": 1,
-            "api": "https://kuaiyun-api.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "纪录片"
-            ]
-        },
+   
         {
             "key": "xml_火狐",
             "name": "🔥️火狐┃繁华",
@@ -1058,65 +791,8 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "csp_xml_百度",
-            "name": "🆔百度┃直连",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动画电影",
-                "大陆剧",
-                "欧美剧",
-                "犯罪片",
-                "港澳剧",
-                "韩剧",
-                "泰剧",
-                "台湾剧",
-                "日剧",
-                "海外剧",
-                "其他片",
-                "悬疑片",
-                "奇幻片",
-                "动画片",
-                "体育赛事",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
-        },
+       
         
-        {
-            "key": "百度资源",
-            "name": "🥑百度┃繁华",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "大陆剧",
-                "战争片",
-                "动作片",
-                "喜剧片"
-            ]
-        },
         {
             "key": "csp_xml_无尽",
             "name": "🈚无尽┃繁华",
@@ -1244,15 +920,7 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "csp_xml_享看",
-            "name": "🌰享看┃繁华",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://xkanzy10.com/api.php/provide/vod"
-        },
+       
         {
             "key": "新浪资源",
             "name": "🍄新浪┃繁华",
@@ -1268,20 +936,7 @@
                 "综艺"
             ]
         },
-        {
-            "key": "百度资源",
-            "name": "🌊百度┃繁华",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "大陆剧",
-                "战争片",
-                "动作片",
-                "喜剧片"
-            ]
-        },
+      
         {
             "key": "YGP",
             "name": "🚀荐影┃繁华",
@@ -1330,20 +985,7 @@
             ]
         },
         
-        {
-            "key": "卧龙资源",
-            "name": "🐍卧龙┃繁华",
-            "type": 1,
-            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧",
-                "香港剧",
-                "恐怖片",
-                "动作片"
-            ]
-        },
+       
         {
             "key": "光速资源",
             "name": "💎光速┃繁华",
@@ -1495,56 +1137,7 @@
             "searchable": 1,
             "quickSearch": 1
         },
-        {
-            "key": "南坊",
-            "name": "🎲南坊┃繁华",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
-        },
-        {
-            "key": "九六",
-            "name": "🍼九六┃繁华",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "毛驴",
-            "name": "🍓毛驴┃繁华",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
-            "key": "Xinsj",
-            "name": "👓视觉┃繁华",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
-        },
-        {
-            "key": "忍者",
-            "name": "🥃忍者┃繁华",
-            "type": 3,
-            "api": "csp_MYYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://rzys.xyz"
-        },
+        
         {
             "key": "csp_Bttoo",
             "name": "🍄比特┃繁华",
@@ -1633,15 +1226,7 @@
                 "欧美动漫"
             ]
         },
-        {
-            "key": "最大资源",
-            "name": "💯最大┃繁华",
-            "type": 1,
-            "api": "http://zuidazy.me/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+       
         {
             "key": "U酷资源",
             "name": "🐹U酷┃繁华",
@@ -1650,79 +1235,8 @@
             "searchable": 1,
             "quickSearch": 1
         },
-        {
-            "key": "奇虎资源",
-            "name": "🦁奇虎┃繁华",
-            "type": 1,
-            "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "bdcili",
-            "name": "⛽️哔嘀┃繁华",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "parse": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/bd.json"
-        },
-        {
-            "key": "csp_Xunlei8",
-            "name": "🚥迅雷┃繁华",
-            "type": 3,
-            "api": "csp_Xunlei8",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-        {
-            "key": "csp_XYQHikerAL_4KHDR",
-            "name": "🚊4K┃繁华",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "playerType": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/4KHDR.json"
-        },
-        {
-            "key": "csp_XYQHiker_BT天堂",
-            "name": "🛩天堂┃繁华",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/BT天堂.json"
-        },
-        {
-            "key": "csp_MeijuMi",
-            "name": "🧲 美剧┃繁华",
-            "type": 3,
-            "api": "csp_MeijuMi",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_MeiJu69",
-            "name": "🗽美剧┃繁华",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
+       
+        
 
         {
             "key": "新6V",
@@ -1734,36 +1248,8 @@
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
         },
-       {
-            "key": "梨园",
-            "name": "🍊梨园┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/liyuan.json"
-        },
-        {
-            "key": "舞蹈",
-            "name": "🍁舞蹈┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/哔哩舞蹈.json"
-        },
-        {
-            "key": "美食",
-            "name": "🍕美食┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/哔哩美食.json"
-        },
+       
+      
         {
             "key": "球星",
             "name": "🌈球星┃繁华",
@@ -1776,47 +1262,6 @@
         },
 
 
-        {
-            "key": "企鹅体育xp",
-            "name": "🐧鹅鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/企鹅直播.json"
-        },
-     {
-      "key": "酷奇",
-      "name": "🎤酷奇┃MV",
-      "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/MTV.json"
-    },
             {
       "key": "csp_XYQHiker_DJ呦呦音乐网",
       "name": "💕 DJ呦呦┃繁华 ",
@@ -1865,16 +1310,7 @@
     },
 
 
-     {
-      "key": "吾爱演唱会",
-      "name": "🎤演唱会┃繁华",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/吾爱演唱会.json"
-    },
+     
             {
             "key": "演唱会",
             "name": "🎸演唱会┃繁华",
@@ -1885,16 +1321,7 @@
             "filterable": 1,
             "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/yanchanghui.txt"
         },
-        {
-      "key": "车模",
-      "name": "🎤车模┃繁华",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/哔哩车模.json"
-    },
+       
         {
       "key": "Excel教程",
       "name": "💕 Excel┃繁华 ",
@@ -1960,27 +1387,8 @@
       "filterable": 1,
       "ext": "https://gitee.com/heng546199810/hxvip1/raw/master/lib/吾爱解说.json"
     },
-        {
-      "key": "ysjd",
-      "name": "💕 央视经典┃繁华",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/央视经典.json"
-    },
-        {
-      "key": "cctv大全",
-      "name": "💕央视回看┃繁华",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/央视大全.json",
-      "jar": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5"
-    },
+        
+       
         {
             "key": "csp_Dm84",
             "name": "🚌动漫1┃繁华",
@@ -2030,19 +1438,7 @@
                 "ratio": 3.8
             }
         },
-        {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/企鹅直播.json"
-        },
+        
         {
             "key": "t41直播转点播",
             "name": "🏠T4精选┃繁华",
@@ -2071,265 +1467,8 @@
             "filterable": 0
         },
 
-
-        {
-            "key": "T4-duanju",
-            "name": "♻️短剧1┃横版",
-            "type": 4,
-            "api": "https://catbox.n13.club/duanju.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-        },
-        {
-            "key": "横版影院",
-            "name": "🍱短剧2┃横版",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧"
-            ],
-            "jar": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/jar.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-        },
-        {
-            "key": "自营短剧",
-            "name": "💠短剧3┃繁华",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.84.103:6822/api.php/app/"
-        },
-        {
-            "key": "yqkan_pen",
-            "name": "🍒短剧4┃繁华",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-
-        {
-            "key": "yqkan_open",
-            "name": "🎳短剧5┃繁华",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-
-     {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/huya2.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "斗鱼js",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-        {
-            "key": "相声小品",
-            "name": "🏮相声┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/Blixs.json"
-        },
-        {
-            "key": "女团热舞",
-            "name": "💃女团┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/nvtuanrewu.json"
-        },
-        {
-            "key": "演唱会",
-            "name": "🎸演唱会┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/yanchanghui.txt"
-        },
-        {
-            "key": "Bili",
-            "name": "🐉哔哩┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/bilibili.json"
-        },
-        {
-            "key": "Biliych",
-            "name": "🅱歌曲┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/biliych.json"
-        },
-        {
-            "key": "py_cctv_少儿",
-            "name": "💁动画┃繁华",
-            "type": 3,
-            "api": "py_cctv_full",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/py_央视少儿.py"
-        },
-        {
-            "key": "少儿教育",
-            "name": "📚少儿┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/少儿教育.json"
-        },
-        {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/小学课堂.json"
-        },
-        {
-            "key": "初中课堂",
-            "name": "📚初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/初中课堂.json"
-        },
-        {
-            "key": "高中教育",
-            "name": "📚高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/高中课堂.json"
-        },
-        {
-            "key": "小灯塔",
-            "name": "💕小灯塔┃繁华",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/小灯塔百科.json"
-        },
-        {
-            "key": "小灯塔科学",
-            "name": "💕小灯塔┃科学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/小灯塔科学.json"
-        },
-        {
-            "key": "小灯塔地理",
-            "name": "💕小灯塔┃地理",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/小灯塔地理.json"
-        },
-        {
-            "key": "小灯塔国学",
-            "name": "💕小灯塔┃国学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/小灯塔国学.json"
-        },
-        {
-            "key": "小灯塔人文",
-            "name": "💕小灯塔┃人文",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--kwr743m.top/dsWgdsaEWDd/fsaFEFEvds/ASsaf23213DSFWQE/lib/小灯塔人文.json"
-        },
+       
+        
         {
             "key": "繁华ya",
             "name": "💕繁华",
