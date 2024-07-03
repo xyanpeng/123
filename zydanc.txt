@@ -7,7 +7,7 @@
         },
         {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/%E4%BA%8C%E7%BA%BF.txt",
-            "name": "🕍繁华丨二线"
+            "name": "🕍繁华丨秒播"
         },
        {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
