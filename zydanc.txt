@@ -5,6 +5,10 @@
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/fhzx.txt",
             "name": "🕍繁华丨专线"
         },
+        {
+            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/%E4%BA%8C%E7%BA%BF.txt",
+            "name": "🕍繁华丨二线"
+        },
        {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
             "name": "🕍繁华丨弹幕"
