@@ -3,9 +3,9 @@
     "wallpaper": "http://龙珠.top/窗外.jpg",
     "lives": [
         {
-      "name": "范明明•ipv6",
+      "name": "涛涛",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "url": "https://6396.kstore.space/VPN/涛live.m3u",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }
