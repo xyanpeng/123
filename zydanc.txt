@@ -7,11 +7,11 @@
         },
         {
             "url": "https://gitee.com/xyanpeng/test-specific/raw/master/%E4%BA%8C%E7%BA%BF.txt",
-            "name": "🕍繁华丨秒播"
+            "name": "🕍繁华丨360"
         },
        {
-            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/ok.txt",
-            "name": "🕍繁华丨弹幕"
+            "url": "http://kkwk333.top/uploads/tvbox/api1.json",
+            "name": "🕍繁华丨秒播"
         },
         
         {
