@@ -17,11 +17,11 @@
 
 {"sourceName":"🛀🏻 小白影视多仓库","sourceUrl":"http://39.101.135.137:8686/"},
 {"sourceName":"🐚无邪影视多仓库","sourceUrl":"https://www.gitlink.org.cn/api/wxrj/wx/raw/jh.txt?ref=master"},
-{"sourceName":"🌺多多影视主仓库","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"},
 
-{"sourceName":"💖心动影视多仓库","sourceUrl":"http://530.my3v.work/xdck.json"},
-{"sourceName":"🏵日后魔改多仓库","sourceUrl":"http://rihou.vip:6"},
-{"sourceName":"🎭开心视频多仓库","sourceUrl":"http://rihou.vip:55"},
+
+
+
+
 
     {"sourceName":"🦠有毒影视科技仓","sourceUrl":"https://tv.youdu.fan:666/"},
 
