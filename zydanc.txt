@@ -1,39 +1,43 @@
 
 {
-    "urls": [
+" URL ":[
         
+{
+" URL ":" https://github . com/xyan Peng/123/edit/master/zy danc . txt "，
+"名称": "繁华🕍专线"
+        },
         {
-            "url": "https://pan.vma.cc/down.php/f7168c52c5c5506ebdee700af6c62214.txt",
-            "name": "繁华🕍新感觉"
+" URL ":" https://pan . VMA . cc/down . PHP/f 7168 c 52 C5 c 5506 ebdee 700 af6c 62214 . txt "，
+"名称": "繁华🕍新感觉"
         },
          {
-            "url": "http://ys-L.ysepan.com/626299582/820809365/k6H5I48765O4Mbnivr5U13/response_content..txt",
-            "name": "繁华🕍龙伊"
+"网址":" http://ys-l . y span . com/626299582/820809365/k 6 H5 I 48765 o 4 mbniv r5 u 13/response _ content..txt”，
+"名称": "繁华🕍龙伊"
         },
         {
-            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/%E4%BA%8C%E7%BA%BF.txt",
-            "name": "🕍繁华丨360"
+" URL ":" https://raw . githubusercontent . com/xyan Peng/123/master/% E4 % BA % 8C % E7 % BA % BF . txt "，
+【姓名】:“🕍繁华丨360"
         },
        {
-            "url": "http://kkwk333.top/uploads/tvbox/api1.json",
-            "name": "🕍繁华丨秒播"
+" URL ":" http://kkwk 333 . top/uploads/TV box/API 1 . JSON "，
+【姓名】:“🕍繁华丨秒播"
         },
         
         {
-            "url": "http://www.饭太硬.com/tv/",
-            "name": "🕍繁华丨饭佬"
+" url": "http://www。饭太硬. com/tv/"，
+【姓名】:“🕍繁华丨饭佬"
         },
          {
-            "url": "http://tv.nxog.top/m/",
-            "name": "🕍繁华丨欧哥"
+" url": "http://tv.nxog.top/m/"，
+【姓名】:“🕍繁华丨欧哥"
         },
         {
-            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/wa.txt",
-            "name": "✨繁华丨吾爱"
+" URL ":" https://gitee . com/xyan Peng/test-specific/raw/master/wa . txt "，
+【姓名】:“✨繁华丨吾爱"
         },
          {
-            "url": "http://juziyou.vip/tv",
-            "name": "橘子柚主接口"
+" url": "http://juziyou.vip/tv "，
+"名称": "橘子柚主接口"
         }                      
 ]
 }
