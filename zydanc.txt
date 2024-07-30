@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/xyanpeng/test-specific/raw/master/fhzx.txt",
+            "url": "https://raw.gitcode.com/peng336699/test-specific/raw/master/fhzx.txt",
             "name": "🕍繁华丨专线"
         },
         {
