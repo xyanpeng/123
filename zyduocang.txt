@@ -2,7 +2,7 @@
 {
   "storeHouse": [{
     "sourceName": "繁华专用仓",
-    "sourceUrl": "https://gitee.com/xyanpeng/test-specific/raw/master/zydanc.txt"}, 
+    "sourceUrl": "https://raw.githubusercontent.com/xyanpeng/123/master/zydanc.txt"}, 
   {"sourceName":"🔥蚂蚁仓库","sourceUrl":"https://pan.miaogongzi.net/f/pNFE/%E8%9A%82%E8%9A%81%E4%BB%93%E5%BA%931.txt"},
   {"sourceName":"又一个仓","sourceUrl":"https://yubox.xyz/dc.json"},
 {"sourceName":"🍚饭太硬多仓仓库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
