@@ -6,8 +6,8 @@
             "name": "繁华🕍专线"
         },
         {
-            "url": "https://pan.vma.cc/down.php/f7168c52c5c5506ebdee700af6c62214.txt",
-            "name": "繁华🕍新感觉"
+            "url": "",
+            "name": ""
         },
          {
             "url": "http://ys-L.ysepan.com/626299582/820809365/k6H5I48765O4Mbnivr5U13/response_content..txt",
